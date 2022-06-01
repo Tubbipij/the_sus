@@ -1,0 +1,21 @@
+[
+{
+        "name":"Superman",
+		"edad":"30",
+		"identidadsecreta":"Clark kent",
+		"poderes":"Superfuerza"
+},
+{
+		"name":"Superman",
+		"edad":"30",
+		"identidadsecreta":"Clark kent",
+		"poderes":["Vision calorifica","Rayos X", "Superfuerza"],
+},
+{
+
+		"name":"Batman",
+		"edad":"30",
+		"identidadsecreta":"Bruno Diaz",
+		"poderes":"Inteligencia"
+}
+]
